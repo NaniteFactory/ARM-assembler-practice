@@ -1,7 +1,7 @@
 # ARM assembler practice
 
 ## 개요
-- 2015학년도 2학기 '컴퓨터 구조' 수업 과제
+- 2015학년도 2학년 2학기 '컴퓨터 구조' 수업 과제
 - ARM 어셈블리 프로그램 작성
 - - -
 - 사용 IDE: ARM Developement Suite v1.2
