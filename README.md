@@ -1,24 +1,25 @@
 # ARM assembler practice
 
-## °³¿ä
-- 2015ÇĞ³âµµ 2ÇĞ±â 'ÄÄÇ»ÅÍ ±¸Á¶' ¼ö¾÷ °úÁ¦
-- ARM ¾î¼Àºí¸® ÇÁ·Î±×·¥ ÀÛ¼º
+## ê°œìš”
+- 2015í•™ë…„ë„ 2í•™ê¸° 'ì»´í“¨í„° êµ¬ì¡°' ìˆ˜ì—… ê³¼ì œ
+- ARM ì–´ì…ˆë¸”ë¦¬ í”„ë¡œê·¸ë¨ ì‘ì„±
+- - -
+- ì‚¬ìš© IDE: ARM Developement Suite v1.2
+- ì°¸ê³ ìë£Œ1: [ARM Developer Suite Assembler Guide - ARM Infocenter](http://infocenter.arm.com/help/topic/com.arm.doc.dui0068b/DUI0068.pdf)
+- ì°¸ê³ ìë£Œ2: [ARM Development Suite v1.2 ì‚¬ìš©ë²•](http://cse.hufs.ac.kr/LIBS/TOOLKIT/NWS_download/bbs_download.asp?bbs_section_cd=etc&bbs_no=2841&bbs_upload_no=2)
 
-- »ç¿ë IDE: ARM Developement Suite v1.2
-- Âü°íÀÚ·á1: [ARM Developer Suite Assembler Guide - ARM Infocenter](http://infocenter.arm.com/help/topic/com.arm.doc.dui0068b/DUI0068.pdf)
-- Âü°íÀÚ·á2: [ARM Development Suite v1.2 »ç¿ë¹ı](http://cse.hufs.ac.kr/LIBS/TOOLKIT/NWS_download/bbs_download.asp?bbs_section_cd=etc&bbs_no=2841&bbs_upload_no=2)
+## ê³¼ì œ ëª©í‘œ
+1) 1, â€¦ ,100ì„ í• ë‹¹í•˜ê³ 
+1) *2ë¥¼ í•˜ì—¬
+1) í•©ê³„ë¥¼ ì°ëŠ”ë‹¤.
+* ì œì¶œë¬¼: ì†ŒìŠ¤ í”„ë¡œê·¸ë¨ ë° ê° ì–´ì…ˆë¸” ë° ì‹¤í–‰ ê²°ê³¼
 
-## °úÁ¦ ³»¿ë
-- 1) 1, ¡¦ ,100À» ÇÒ´çÇÏ°í
-- 2) *2¸¦ ÇÏ¿©
-- 3) ÇÕ°è¸¦ Âï´Â´Ù.
-- Á¦Ãâ¹°: ¼Ò½º ÇÁ·Î±×·¥ ¹× °¢ ¾î¼Àºí ¹× ½ÇÇà °á°ú
-
-## ¼öÇàÈ­¸é
+## ìˆ˜í–‰í™”ë©´
 ![1](./1.PNG)
 ![2](./2.PNG)
-![3: ·çÇÁ¸¦ ÁøÇàÇÏ¸ç r0ÀÇ °ªÀÌ Áõ°¡ÇÏ´Â ¸ğ½À](./3.PNG)
+![3: ë£¨í”„ë¥¼ ì§„í–‰í•˜ë©° r0ì˜ ê°’ì´ ì¦ê°€í•˜ëŠ” ëª¨ìŠµ](./3.PNG)
 ![4](./4.PNG)
-![5: 76¹øÂ° µ¥ÀÌÅÍ¿¡ 2¸¦ °öÇÏ°í ÀúÀåÇÏ´Â Áß](./5.PNG)
-![6: r2¿¡ ÇÕ°è¸¦ ÀúÀåÇÏ´Â Áß](./6.PNG)
-![7: ÃÖÁ¾ °á°ú](./7.PNG)
+![5: 76ë²ˆì§¸ ë°ì´í„°ì— 2ë¥¼ ê³±í•˜ê³  ì €ì¥í•˜ëŠ” ì¤‘](./5.PNG)
+![6: r2ì— í•©ê³„ë¥¼ ì €ì¥í•˜ëŠ” ì¤‘](./6.PNG)
+![7: ìµœì¢… ê²°ê³¼](./7.PNG)
+
